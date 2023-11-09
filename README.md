@@ -1,2 +1,2 @@
-# algorytm-na-obliczanie-n-tej-ci-gu-fibonacciego
+# algorytm-na-obliczanie-n-tej-ciagu-fibonacciego
 idk
